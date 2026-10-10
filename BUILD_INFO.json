@@ -1,23 +1,28 @@
 {
-  "version": "v2026.10.10-tpu-fix",
-  "source_commit": "70f55a96aaf3fd5b8bce9f6d2e554c92e526a018",
+  "version": "v2026.10.10-layout-fix",
+  "source_commit": "4712086c868964e73e5e57b1a54fc27a8b966ab5",
   "godot_version": "4.7.2.stable.official.ed1daf0bf",
   "engine_runtime": "unchanged official 2026-10-09 export runtime; resource packs exported with pinned Godot 4.7.2",
   "save_format": 14,
   "validation": {
-    "existing_regression_checks": 616,
-    "asi_regression_checks": 29,
-    "tpu_regression_checks": 31,
-    "gui_smoke": "passed actual Windows renderer"
+    "layout_gui_checks": 178,
+    "layout_gui": "passed actual Windows renderer at 1280x720 and 1280x600; stages 1, 2, 3; seven pages",
+    "ui_performance_checks": 21,
+    "map_performance_checks": 76,
+    "asi_gui_smoke": "passed actual Windows renderer",
+    "previous_tpu_version_regression_checks": 676,
+    "edge_ui": "not available in connected browser inventory",
+    "web_layout_checks": 175,
+    "web_ui": "passed WebGL Chromium in-app browser; actual 1280x600 viewport; ordinary city, economy, space tab clicks and scrolling to bottom"
   },
   "packs": {
     "windows": {
-      "size": 15797432,
-      "sha256": "84fde20a4c2c02114f2b14394934d4a92c118cffdc7ca4e46702f2e9c04a995e"
+      "size": 15797704,
+      "sha256": "d270af6b39fc177a408fac80a766cc01179ed9953d8c0817b5a92286a041dc5b"
     },
     "web": {
-      "size": 15797432,
-      "sha256": "84fde20a4c2c02114f2b14394934d4a92c118cffdc7ca4e46702f2e9c04a995e"
+      "size": 15797704,
+      "sha256": "d270af6b39fc177a408fac80a766cc01179ed9953d8c0817b5a92286a041dc5b"
     }
   }
 }
