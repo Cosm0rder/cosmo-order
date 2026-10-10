@@ -1,0 +1,15 @@
+PROJECT COSMO ORDER — Original Sound
+
+Morning Orbit — 92 BPM / 16 bars / Menu
+Little Engines — 108 BPM / 32 bars / Gameplay
+
+Original melodies, chord arrangement, FM electric keys, plucked lead,
+synth bass and synthesized percussion created for PROJECT COSMO ORDER.
+Composed and rendered with code, with assistance from OpenAI Codex.
+No third-party songs, recordings, voice clips or sample packs are used.
+
+Sound effects: hover, click, construction, facility completion,
+research completion, quest reward, confirmation, error, AGI arrival.
+
+The game contains rendered audio only. Audio generation libraries are
+development tools and are not bundled or required for playback.
