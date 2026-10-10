@@ -1,0 +1,22 @@
+{
+  "version": "v2026.10.10-asi-fix",
+  "source_commit": "06f29198e1fd007d8475369a9cee6be8932ace0e",
+  "godot_version": "4.7.2.stable.official.ed1daf0bf",
+  "engine_runtime": "unchanged official 2026-10-09 export runtime; resource packs exported with pinned Godot 4.7.2",
+  "save_format": 14,
+  "validation": {
+    "existing_regression_checks": 616,
+    "asi_regression_checks": 29,
+    "gui_smoke": "passed actual Windows renderer"
+  },
+  "packs": {
+    "windows": {
+      "size": 15794984,
+      "sha256": "9304deca1de41c9ef711aa1e2aacc8ed336a8403cc2c68825ecba4fb74638df0"
+    },
+    "web": {
+      "size": 15794984,
+      "sha256": "9304deca1de41c9ef711aa1e2aacc8ed336a8403cc2c68825ecba4fb74638df0"
+    }
+  }
+}

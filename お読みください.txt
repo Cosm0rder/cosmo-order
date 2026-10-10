@@ -1,4 +1,4 @@
-PROJECT COSMO ORDER — 2026年10月9日 安定性修正版
+PROJECT COSMO ORDER — 2026年10月10日 ASI研究39%停止修正版
 
 Windows版：ZIPをすべて展開し、CosmoOrder.exeを起動してください。
 CosmoOrder.pckを同じフォルダーに置いてください。
@@ -28,3 +28,5 @@ Godot 4.7.2 / GL Compatibility / Webは単一スレッドです。
 Windowsには互換OpenGLドライバー、WebにはWebGL 2対応ブラウザーが必要です。
 実機のNintendo DS向け移植や、すべての端末での動作保証は行っていません。
 同梱licensesのGodot・フォント・音源ライセンスをご確認ください。
+
+ASI研究の修正：39.4%はTPU・QPUの設計完了地点です。STAGE 3の「ASI研究・設備整備」から不足工場と実機を整備してください。自動整備は月予算を設定してONにできます。実費・資材・半導体を使って施工し、通電・冷却後に研究を再開します。既存の進捗とセーブ形式14を保持します。
