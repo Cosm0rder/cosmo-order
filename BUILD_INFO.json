@@ -1,22 +1,23 @@
 {
-  "version": "v2026.10.10-asi-fix",
-  "source_commit": "06f29198e1fd007d8475369a9cee6be8932ace0e",
+  "version": "v2026.10.10-tpu-fix",
+  "source_commit": "70f55a96aaf3fd5b8bce9f6d2e554c92e526a018",
   "godot_version": "4.7.2.stable.official.ed1daf0bf",
   "engine_runtime": "unchanged official 2026-10-09 export runtime; resource packs exported with pinned Godot 4.7.2",
   "save_format": 14,
   "validation": {
     "existing_regression_checks": 616,
     "asi_regression_checks": 29,
+    "tpu_regression_checks": 31,
     "gui_smoke": "passed actual Windows renderer"
   },
   "packs": {
     "windows": {
-      "size": 15794984,
-      "sha256": "9304deca1de41c9ef711aa1e2aacc8ed336a8403cc2c68825ecba4fb74638df0"
+      "size": 15797432,
+      "sha256": "84fde20a4c2c02114f2b14394934d4a92c118cffdc7ca4e46702f2e9c04a995e"
     },
     "web": {
-      "size": 15794984,
-      "sha256": "9304deca1de41c9ef711aa1e2aacc8ed336a8403cc2c68825ecba4fb74638df0"
+      "size": 15797432,
+      "sha256": "84fde20a4c2c02114f2b14394934d4a92c118cffdc7ca4e46702f2e9c04a995e"
     }
   }
 }
